@@ -41,8 +41,9 @@ bank-loan-analysis/
 ---
 
 ## 📌 How to Use
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/RaichelRenu/bank-loan-analysis.git
+- Open `BankLoanAnalysis.sql` to review SQL queries used for data cleaning and analysis.  
+- Open `Bank Loan.pbix` in Power BI to explore the interactive dashboards.  
+- Refer to the screenshots (`dashboard1.png`, `dashboard2.png`, `dashboard3.png`) for quick preview.  
+
 
 
