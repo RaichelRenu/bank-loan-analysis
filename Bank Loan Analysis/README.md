@@ -22,17 +22,17 @@ It combines **SQL** for backend data processing and **Power BI** for interactive
 
 ## 📂 Project Structure
 bank-loan-analysis/
-┣ loan_data.xlsx # Dataset
-┣ loan_analysis.sql # SQL queries
-┣ bank_loan_dashboard.pbix # Power BI dashboard
-┣ dashboard.png # Dashboard preview (screenshot)
+┣ financial_loan.csv # Dataset
+┣ BankLoanAnalysis.sql # SQL queries
+┣ Bank Loan.pbix # Power BI dashboard
+┣ dashboard1.png & dashboard2.png & dashboard3.png # Dashboard preview (screenshot)
 ┗ README.md # Project documentation
 
 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard1.png)(dashboard2.png)(dashboard3.png)
 
 ---
 
@@ -48,3 +48,4 @@ bank-loan-analysis/
 1. Clone this repository:  
    ```bash
    git clone https://github.com/RaichelRenu/bank-loan-analysis.git
+
