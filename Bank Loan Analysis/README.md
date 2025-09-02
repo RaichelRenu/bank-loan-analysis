@@ -31,10 +31,6 @@ bank-loan-analysis/
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard1.png)(dashboard2.png)(dashboard3.png)
-
----
 
 ## 🚀 Key Insights
 - Identified customer groups with **higher default probability**  
@@ -48,4 +44,5 @@ bank-loan-analysis/
 1. Clone this repository:  
    ```bash
    git clone https://github.com/RaichelRenu/bank-loan-analysis.git
+
 
